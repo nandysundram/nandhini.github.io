@@ -1,9 +1,7 @@
-# Hi there 👋 I'm Babu!
+# Hi there 👋 I'm Nandy!
 
 ### Passionate about building things and telling stories
-I'm a Data scientist, Bloger, and entrepreneur with an eye for the visual and interests in quantum computing. It's late tonight so I'll leave it at that 😅 but please feel free to browse the repos on my profile! Do chekout my blogs on [medium](https://usbabu300.medium.com/)
-
-[![Donate](https://img.shields.io/badge/$-donate-ff69b4.svg)](https://www.paypal.me/Babuus)
+I'm a Cloud Engineer, Look for an oppurtunity to collabrate
 <!--
 **babuus/babuus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
